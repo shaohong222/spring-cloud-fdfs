@@ -13,10 +13,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="cloud-config-server" target="1.7" />
-      <module name="cloud-eureka-server" target="1.7" />
-      <module name="cloud-simple-service" target="1.7" />
-      <module name="cloud-simple-ui" target="1.7" />
+      <module name="cloud-config-server" target="1.8" />
+      <module name="cloud-eureka-server" target="1.8" />
+      <module name="cloud-simple-service" target="1.8" />
+      <module name="cloud-simple-ui" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
