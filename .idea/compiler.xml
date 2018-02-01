@@ -8,6 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="cloud-config-server" />
         <module name="cloud-eureka-server" />
+        <module name="cloud-hystrix-dashboard" />
+        <module name="cloud-hystrix-turbine" />
+        <module name="cloud-monitor-server" />
         <module name="cloud-simple-service" />
         <module name="cloud-simple-ui" />
       </profile>
@@ -15,6 +18,9 @@
     <bytecodeTargetLevel>
       <module name="cloud-config-server" target="1.7" />
       <module name="cloud-eureka-server" target="1.7" />
+      <module name="cloud-hystrix-dashboard" target="1.6" />
+      <module name="cloud-hystrix-turbine" target="1.7" />
+      <module name="cloud-monitor-server" target="1.7" />
       <module name="cloud-simple-service" target="1.7" />
       <module name="cloud-simple-ui" target="1.7" />
     </bytecodeTargetLevel>
