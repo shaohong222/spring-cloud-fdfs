@@ -8,21 +8,26 @@
         <outputRelativeToContentRoot value="true" />
         <module name="cloud-config-server" />
         <module name="cloud-eureka-server" />
+        <module name="cloud-fdfs-consumer" />
+        <module name="cloud-fdfs-provider" />
         <module name="cloud-hystrix-dashboard" />
         <module name="cloud-hystrix-turbine" />
         <module name="cloud-monitor-server" />
-        <module name="cloud-simple-service" />
-        <module name="cloud-simple-ui" />
+        <module name="cloud-zuul-gateway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="cloud-common" target="1.6" />
       <module name="cloud-config-server" target="1.7" />
       <module name="cloud-eureka-server" target="1.7" />
+      <module name="cloud-fdfs-consumer" target="1.7" />
+      <module name="cloud-fdfs-provider" target="1.7" />
       <module name="cloud-hystrix-dashboard" target="1.6" />
       <module name="cloud-hystrix-turbine" target="1.7" />
       <module name="cloud-monitor-server" target="1.7" />
       <module name="cloud-simple-service" target="1.7" />
       <module name="cloud-simple-ui" target="1.7" />
+      <module name="cloud-zuul-gateway" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

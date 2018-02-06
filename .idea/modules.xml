@@ -4,11 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cloud-config-server/cloud-config-server.iml" filepath="$PROJECT_DIR$/cloud-config-server/cloud-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-eureka-server/cloud-eureka-server.iml" filepath="$PROJECT_DIR$/cloud-eureka-server/cloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-fdfs-consumer/cloud-fdfs-consumer.iml" filepath="$PROJECT_DIR$/cloud-fdfs-consumer/cloud-fdfs-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-fdfs-provider/cloud-fdfs-provider.iml" filepath="$PROJECT_DIR$/cloud-fdfs-provider/cloud-fdfs-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-hystrix-dashboard/cloud-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/cloud-hystrix-dashboard/cloud-hystrix-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-hystrix-turbine/cloud-hystrix-turbine.iml" filepath="$PROJECT_DIR$/cloud-hystrix-turbine/cloud-hystrix-turbine.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-monitor-server/cloud-monitor-server.iml" filepath="$PROJECT_DIR$/cloud-monitor-server/cloud-monitor-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cloud-simple-service/cloud-simple-service.iml" filepath="$PROJECT_DIR$/cloud-simple-service/cloud-simple-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cloud-simple-ui/cloud-simple-ui.iml" filepath="$PROJECT_DIR$/cloud-simple-ui/cloud-simple-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-zuul-gateway/cloud-zuul-gateway.iml" filepath="$PROJECT_DIR$/cloud-zuul-gateway/cloud-zuul-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-fdfs.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-fdfs.iml" />
     </modules>
   </component>

@@ -5,11 +5,14 @@
       <list>
         <option value="$PROJECT_DIR$/cloud-simple-ui/pom.xml" />
         <option value="$PROJECT_DIR$/cloud-simple-service/pom.xml" />
-        <option value="$PROJECT_DIR$/cloud-eureka-server/pom.xml" />
-        <option value="$PROJECT_DIR$/cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-zuul-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/cloud-monitor-server/pom.xml" />
         <option value="$PROJECT_DIR$/cloud-hystrix-turbine/pom.xml" />
         <option value="$PROJECT_DIR$/cloud-hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-fdfs-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-fdfs-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-config-server/pom.xml" />
       </list>
     </option>
   </component>
